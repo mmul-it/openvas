@@ -1,0 +1,15 @@
+# VIM
+**.swp
+**.swo
+**~
+
+# Ignored dirs
+/input_xml/*
+/output_reports/*
+/virtualenv/*
+
+## Whitelist
+# Do not ignore folder placeholder
+!.gitignore
+!**/.folder_placeholder
+
